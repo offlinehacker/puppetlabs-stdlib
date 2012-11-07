@@ -1,3 +1,6 @@
+2012-11-06 - Joe Julian <me@joejulian.name> - 3.2.0
+ * Add function, uriescape, to URI.escape strings. Redmine #17459 (2fc85d2)
+
 2012-10-25 - Jeff McCune <jeff@puppetlabs.com> - 3.1.1
  * (maint) Fix spec failures resulting from Facter API changes (97f836f)
 
